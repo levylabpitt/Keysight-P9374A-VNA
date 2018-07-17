@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2017" Created_Date="2018-07-17 11:51:15" Modified_Date="2018-07-17 11:59:32" Creator="Patrick" Comments="" ID="8a54732192813a998a2c9f322b174f7b">
+<VI_Package_Builder_Settings Version="2017" Created_Date="2018-07-17 11:51:15" Modified_Date="2018-07-17 12:09:31" Creator="Patrick" Comments="" ID="e21679d86698eb018b1da20d81e7e7a5">
   <Library_General_Settings>
     <Package_File_Name>Levylab_lib_Keysight_VNA</Package_File_Name>
-    <Library_Version>1.0.0.2</Library_Version>
+    <Library_Version>1.0.0.3</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\lvsrc</Library_Source_Folder>
     <Library_Output_Folder>..</Library_Output_Folder>
@@ -34,7 +34,7 @@
       <Copyright/>
       <Packager>Dengyu</Packager>
       <URL/>
-      <Release_Notes>first release</Release_Notes>
+      <Release_Notes>update sweep DC to use lockin's API VI</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -226,7 +226,7 @@
         <Path>..\lvsrc\P9374AEasilyUse_v5.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B7404F9B800CAC2DB7522ACEBA3D3149</GUID>
+      <GUID>98BDA4504CFDAAF5799BF51F3AD00871</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
